@@ -15,7 +15,7 @@
 
 [线段](n/ab.md)
 
-## 函数
+## function
 
 1. [艾斯浩宾遗忘曲线](function/forgetting-curve.md)
 1. [大数规律/酥胸函数](function/Standard_deviation_diagram_micro.md)
