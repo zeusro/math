@@ -13,6 +13,10 @@
 
 ## n
 
+[1](n/1.md)
+[2](n/2.md)
+[4](n/4.md)
+[n](n/n.md)
 [线段](n/ab.md)
 
 ## function
