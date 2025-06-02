@@ -8,13 +8,13 @@
 
 ## n
 
-[+-](n/+-.md)
-[1](n/1.md)
-[2](n/2.md)
-[4](n/4.md)
-[ab](n/ab.md)
-[dot](n/dot.md)
-[n](n/n.md)
+1. [+-](n/+-.md)
+1. [1](n/1.md)
+1. [2](n/2.md)
+1. [4](n/4.md)
+1. [ab](n/ab.md)
+1. [dot](n/dot.md)
+1. [n](n/n.md)
 
 ## function
 
