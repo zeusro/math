@@ -12,8 +12,8 @@
 1. [1](n/1.md)
 1. [2](n/2.md)
 1. [4](n/4.md)
-1. [ab](n/ab.md)
 1. [dot](n/dot.md)
+1. [ab](n/ab.md)
 1. [n](n/n.md)
 
 ## function
