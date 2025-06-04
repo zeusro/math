@@ -1,7 +1,5 @@
 # math
 
-## Cover
-
 ![image](n/n.webp)
 
 ## Abstract
