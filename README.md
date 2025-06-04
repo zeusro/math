@@ -1,4 +1,4 @@
-# math
+# Math
 
 ![image](n/n.webp)
 
@@ -16,7 +16,7 @@
 1. [ab](n/ab.md)
 1. [n](n/n.md)
 
-## function
+## Function
 
 1. [艾斯浩宾遗忘曲线](function/forgetting-curve.md)
 1. [大数规律/酥胸函数](function/Standard_deviation_diagram_micro.md)
