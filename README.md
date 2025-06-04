@@ -1,12 +1,12 @@
-`地势坤，君子以厚德载物`
+# Math
 
-# math
+![image](n/n.webp)
 
-![image](はたけカカシ.jpg)
+## Abstract
 
-师从聿怀中学朱穆翔
+三维数学只是t=0时的一种特例，需要将数学拓展到n维度。
 
-## n
+## Contents
 
 1. [+-](n/+-.md)
 1. [1](n/1.md)
@@ -16,7 +16,17 @@
 1. [ab](n/ab.md)
 1. [n](n/n.md)
 
-## function
+## Function
 
 1. [艾斯浩宾遗忘曲线](function/forgetting-curve.md)
 1. [大数规律/酥胸函数](function/Standard_deviation_diagram_micro.md)
+
+## References
+
+  `地势坤，君子以厚德载物` --《周易》
+
+## Thanks
+
+![image](はたけカカシ.jpg)
+
+[朱穆翔](https://mp.weixin.qq.com/s?__biz=MzI1ODEyNDg3MA==&mid=2655475398&idx=1&sn=2bdcf5d77a5e8364f402abb5585411eb&chksm=f1bf0befc6c882f9e8244b98f9fa7b3eabd813ae70c18ca9ccd8dca769ddc59acebbf85c5bb4&scene=178&cur_album_id=1501795090070077441&search_click_id=#rd)
