@@ -6,8 +6,6 @@ n是基于时间序列的n维世界。
 
 ## n=1
 
-![image](n.webp)
-
 ```go
 type N struct {
 	Sky
@@ -21,13 +19,15 @@ Kubernetes is a database.
 
 ## 1=n
 
-![image](1=N.svg)
+![image](n.webp)
 
 Kubernetes is a distributed system.
 
 在1维的基础上，叠加万物的时间序列，形成一条基于时间的历史长河，即1=n。
 
 ## n≠1
+
+![image](1=N.svg)
 
 n≠1只是xyz的特例。
 当t=0,1=1,0=0，所以n=1，n≠1同时成立。
