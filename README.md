@@ -31,3 +31,7 @@
 ![image](はたけカカシ.jpg)
 
 [朱穆翔](https://mp.weixin.qq.com/s?__biz=MzI1ODEyNDg3MA==&mid=2655475398&idx=1&sn=2bdcf5d77a5e8364f402abb5585411eb&chksm=f1bf0befc6c882f9e8244b98f9fa7b3eabd813ae70c18ca9ccd8dca769ddc59acebbf85c5bb4&scene=178&cur_album_id=1501795090070077441&search_click_id=#rd)
+
+<a href="https://mp.weixin.qq.com/s?__biz=MzI1ODEyNDg3MA==&mid=2655475398&idx=1&sn=2bdcf5d77a5e8364f402abb5585411eb&chksm=f1bf0befc6c882f9e8244b98f9fa7b3eabd813ae70c18ca9ccd8dca769ddc59acebbf85c5bb4&scene=178&cur_album_id=1501795090070077441&search_click_id=#rd" target="_blank">
+  <img src="はたけカカシ.jpg" alt="朱穆翔" width="30%">
+</a>
