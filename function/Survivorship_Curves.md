@@ -5,3 +5,5 @@
 ![IMAGE](Survivorship_Curves.jpg)
 
 上凸下翘函数
+
+![IMAGE](みかみ ゆあ.webp)
