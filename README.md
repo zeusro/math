@@ -20,6 +20,7 @@
 
 1. [艾斯浩宾遗忘曲线](function/forgetting-curve.md)
 1. [大数规律/酥胸函数](function/Standard_deviation_diagram_micro.md)
+1. [生存曲线/美女函数](function/Survivorship_Curves.md)
 
 ## References
 
