@@ -24,6 +24,10 @@
 1. [大数规律/酥胸函数/刘亦菲函数](function/Standard_deviation_diagram_micro.md)
 1. [生存曲线/美女函数/三上悠亚函数](function/Survivorship_Curves.md)
 
+## logic
+
+1. [Database Deadlock](it/Deadlock.md)
+
 ## References
 
   `地势坤，君子以厚德载物` --《周易》
