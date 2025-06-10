@@ -1,13 +1,10 @@
 # Math
 
-[中文版本](readme.zh.md)
-
 ![image](n/n.webp)
 
 ## Abstract
 
-Three-dimensional mathematics is a special case when t=0,
-mathematics needs to be extended to n dimensions.
+三维数学只是t=0时的一种特例，需要将数学拓展到n维。
 
 ## Contents
 
@@ -23,9 +20,9 @@ mathematics needs to be extended to n dimensions.
 
 ## Function
 
-1. [forgetting-curve](function/forgetting-curve.md)
-1. [Standard_deviation_diagram_micro](function/Standard_deviation_diagram_micro.md)
-1. [Survivorship_Curves](function/Survivorship_Curves.md)
+1. [艾斯浩宾遗忘曲线/阳痿函数/大禹治水三过家门而不“入”函数](function/forgetting-curve.md)
+1. [大数规律/酥胸函数/刘亦菲函数](function/Standard_deviation_diagram_micro.md)
+1. [生存曲线/美女函数/三上悠亚函数](function/Survivorship_Curves.md)
 
 ## logic
 
@@ -33,7 +30,7 @@ mathematics needs to be extended to n dimensions.
 
 ## References
 
-  `Carry the world with great virtue` --《周易》
+  `地势坤，君子以厚德载物` --《周易》
 
 ## Thanks
 
