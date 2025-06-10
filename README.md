@@ -27,7 +27,7 @@ mathematics needs to be extended to n dimensions.
 1. [Standard_deviation_diagram_micro](function/Standard_deviation_diagram_micro.md)
 1. [Survivorship_Curves](function/Survivorship_Curves.md)
 
-## logic
+## Logic
 
 1. [Database Deadlock](it/Deadlock.md)
 
