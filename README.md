@@ -11,7 +11,7 @@ mathematics needs to be extended to n dimensions.
 
 ## Contents
 
-1. [+-](n/+-.md)
+1. [+](n/+.md)
 1. [0](n/0.md)
 1. [1](n/1.md)
 1. [2](n/2.md)
