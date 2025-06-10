@@ -6,7 +6,8 @@
 
 ## Abstract
 
-Three-dimensional mathematics is a special case when t=0,
+Three-dimensional mathematics is a special case when t=0.
+
 mathematics needs to be extended to n dimensions.
 
 ## Contents

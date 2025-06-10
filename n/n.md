@@ -1,8 +1,8 @@
-    一即为全，全即为一
+    One is all,all in one
     
 # n
 
-n是基于时间序列的n维世界。
+n is the n-dimensional world based on time series.
 
 ## n=1
 
