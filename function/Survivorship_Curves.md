@@ -1,9 +1,10 @@
-    翩若惊鸿，婉若游龙
+    “Rachel was beautiful in form and appearance.”
+    ——Genesis 29:1
 
-# 存活曲线
+# Survivorship Curves
 
 ![IMAGE](Survivorship_Curves.jpg)
 
-上凸下翘函数
+みかみゆあ はとてもきれいです
 
 ![IMAGE](みかみゆあ.webp)
