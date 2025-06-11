@@ -1,6 +1,6 @@
     I believe I can fly
 
-# n-dimensional line segment
+# N-Dimensional Line Segment
 
 ## Easy To Understand
 
