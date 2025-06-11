@@ -10,3 +10,6 @@ auto_commit:
 	git commit -am "$(now)"
 	git pull
 	git push
+
+hermes:
+	for f in *.md; do cp "$f" "${f%.md}.zh.md"; done
