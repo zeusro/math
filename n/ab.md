@@ -1,6 +1,6 @@
     I believe I can fly
 
-# N-Dimensional Line Segment
+# N-Dimensional ab
 
 ## Easy To Understand
 
