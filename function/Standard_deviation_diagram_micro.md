@@ -1,14 +1,11 @@
-    窈窕淑女，君子好逑
+    Heroes love young and beautiful.
 
+# Crystal Liu
 
 ![IMAGE](Standard_deviation_diagram_micro.svg)
 
-人的运动规律、生命轨迹、能力分布符合大数规律。
-在高中阶段，大数规律体现在高能符号学的试卷试题排布、二项分布中。
-把X轴换成时间，就是“潮汐”函数。
+If the X-axis is replaced by time, it becomes the "tidal" function.
 
-把X轴换成从上游往“下流”方向看，就会发现这是一个胸部。所以我个人更乐意称之为酥胸函数。
+Looking dirty from high,it is a "Crystal Liu" function.
 
 ![IMAGE](刘亦菲.png)
-
-

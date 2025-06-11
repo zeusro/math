@@ -24,7 +24,7 @@ mathematics needs to be extended to n dimensions.
 
 ## Function
 
-1. [forgetting-curve](function/forgetting-curve.md)
+1. [ED](function/forgetting-curve.md)
 1. [Standard_deviation_diagram_micro](function/Standard_deviation_diagram_micro.md)
 1. [Survivorship_Curves](function/Survivorship_Curves.md)
 
