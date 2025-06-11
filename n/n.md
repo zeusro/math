@@ -44,9 +44,11 @@ From 1=n, n=1, we can derive the mathematical axiom of n-dimensional space:
 1. As time changes,n↘️R3↘️R2↘️R1↘️R0↘️0
 
 0 → • → ― → ▭ → ▣
+
 - $P \in \mathbb{R}^0$
 - $L \subset \mathbb{R}^1$
 - $S \subset \mathbb{R}^2$
 - $V \subset \mathbb{R}^3$
 - $\dim = n$
+
 ▣ → ▭ → ― → • → 0
