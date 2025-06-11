@@ -22,10 +22,11 @@ Kubernetes is a database.
 
 ![image](1=N.svg)
 
-n≠1只是xyz的特例。
-当t=0,1=1,0=0，所以n=1，n≠1同时成立。
+n ≠ 1 is just a special case of xyz.  
+When t = 0, 1 = 1 and 0 = 0 ⇒ n = 1 ∧ n ≠ 1.
 
-简而言之，n=1,1=n 是一种从子集到父集,从父集到子集的思想。
+n = 1, 1 = n reflects a bidirectional idea from subset to superset.
+Vice versa.
 
 ## 1=n
 
@@ -33,9 +34,25 @@ n≠1只是xyz的特例。
 
 Kubernetes is a distributed system.
 
-在1维的基础上，叠加万物的时间序列，形成一条基于时间的历史长河，即1=n。
+Building on 1D, layering all time series forms a time-based river of history: *1 = n*.
 
-## 推论
+## Deduction
+
+From 1=n, n=1, we can derive the mathematical axiom of n-dimensional space:
+1. The traditional three-dimensional (n<=3, where n is the n of the "current rectangular coordinate system") world operation rules are the special state at t=0
+1. 
+
+0 moves to t, as time changes, points move to lines, lines move to surfaces, surfaces move to volumes, volumes move to dimensions
+0↗️t.As time changes,point↗️lines↗️surfaces↗️volumes
+
+```
+
+- $P \in \mathbb{R}^0$
+- $L \subset \mathbb{R}^1$
+- $S \subset \mathbb{R}^2$
+- $V \subset \mathbb{R}^3$
+- $\dim = n$
+```
 
 由1=n，n=1可以得出n维空间数学公理：
 1. 传统三维（n<=3，这里的n是“当前直角坐标系”的n）世界运算法则是t=0时的特殊态；
