@@ -2,4 +2,4 @@
 
 1:N=1 ⇔ 1=N 
 
-2:Conclusion：P=NP
+2:P=P ⇔ P=NP
