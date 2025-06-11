@@ -2,9 +2,9 @@
 
 # N-Dimensional ab
 
-## Easy To Understand
-
 ![image](ab.svg)
+
+## Easy To Understand
 
 In a three-dimensional world, according to the traditional xyz rectangular reference system, the line segment between ab is definitely the shortest.
 
