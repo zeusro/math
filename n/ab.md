@@ -22,11 +22,11 @@ However, this "curve" takes the shortest time, so it is actually also a 4-dimens
     Between two points, a line segment is the shortest; 
     Learning behind human, I am the best
 
-![image](Accelerator.png)
-
 xyz plus time,add surrounding objects,form a generalized n-dimensional world.
 
 Then the n-dimensional line segment, this "straight line", appears to be very vague and curved in traditional three-dimensional creatures, but in fact it is the n-dimensional line segment that appears in a reduced dimension in three-dimensional space.
+
+![image](Accelerator.png)
 
 Fully Dynamic Walking is the best policy in the walking problem.
 
