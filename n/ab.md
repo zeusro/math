@@ -2,8 +2,7 @@
 
 # n-dimensional line segment
 
-
-## easy to understand
+## Easy To Understand
 
 ![image](ab.svg)
 
