@@ -1,35 +1,33 @@
-    自在飞花轻似梦
+    I believe I can fly
 
-# n维线段
+# n-dimensional line segment
 
 
-## 通俗解释
+## easy to understand
 
 ![image](ab.svg)
 
-在一个4维世界中，ab之间按照xyz传统直角参考系，肯定是线段最短。
+In a three-dimensional world, according to the traditional xyz rectangular reference system, the line segment between ab is definitely the shortest.
 
-但因为时间空间“弯曲了”（地球是圆的）。
-受到条件制约（比如胖虎站在你面前要保护费，于是你只能“绕”过他）之后，发现走出来的路线是“曲线”。
-但是这条“曲线”消耗时间最短，所以其实也是4维“线段”。
+But because time and space are "curved" (the earth is round).
 
-## 凌波微步/Fully Dynamic Walking
+![image](ab.jpeg)
 
-    两点之间，线段最短；邯郸学步，后发先至
+After being constrained by conditions (for example, Fat Tiger stands in front of you and asks for protection money, so you can only "go around" him), you find that the route you take is a "curve".
+
+However, this "curve" takes the shortest time, so it is actually also a 4-dimensional "line segment".
+
+## Fully Dynamic Walking
+
+    Between two points, a line segment is the shortest; 
+    Learning behind human, I am the best
 
 ![image](Accelerator.png)
 
-xyz加上时间t，演算范围叠加周围对象，形成广义n维世界。
+xyz plus time,add surrounding objects,form a generalized n-dimensional world.
 
-那么n维的线段，这条“直线”，在传统三维度生物里面看来就很飘忽很弯曲，但实际上是n维线段在3维空间降维显现。
+Then the n-dimensional line segment, this "straight line", appears to be very vague and curved in traditional three-dimensional creatures, but in fact it is the n-dimensional line segment that appears in a reduced dimension in three-dimensional space.
 
-凌波微步是步行问题的鹏式均衡解。
+Fully Dynamic Walking is the best policy in the walking problem.
 
-xyz中，ab最短需要满足不被外物干扰的情况。
-
-游戏规则是尽量不触碰他人，是因为帕累托最优化不能干涉他人的因果。
-
-在N维度时空里面，找到自己的那条耗时最短并且不撞到人的“线段”，就是N维线段。 ​
-
-为什么我反复强调，意识和物质在同一个世界里面就是如此。
-《とある魔術の禁書目録》里面一方通行的能力（IQ120+或者10年+步行经验）是可以通过长期大量训练获取的。
+Try not to touch others, because Pareto optimization cannot harm others.
