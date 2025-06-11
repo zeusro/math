@@ -42,8 +42,13 @@ Kubernetes is a distributed system.
 1. 0动成t，随着时间变化，点动成线，线动成面，面动成体，体动成维；
 1. 推论：随着时间变化，维降成体，体缩成面，面揉成线，线压成点，点灭为0。
 
+0 → • → ― → ▭ → ▣
+
 - 点 $P \in \mathbb{R}^0$
 - 线 $L \subset \mathbb{R}^1$
 - 面 $S \subset \mathbb{R}^2$
 - 体 $V \subset \mathbb{R}^3$
 - 维 $\dim = n$
+
+▣ → ▭ → ― → • → 0
+
