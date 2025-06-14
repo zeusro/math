@@ -49,6 +49,8 @@ From 1=n, n=1, we can derive the mathematical axiom of n-dimensional space:
 - $L \subset \mathbb{R}^1$
 - $S \subset \mathbb{R}^2$
 - $V \subset \mathbb{R}^3$
+- $V \subset \mathbb{R}^4$
+
 - $\dim = n$
 
 ▣ → ▭ → ― → • → 0

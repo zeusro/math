@@ -18,16 +18,6 @@
 1. [dot](n/dot.zh.md)
 1. [n](n/n.zh.md)
 
-## Function
-
-1. [艾斯浩宾遗忘曲线/阳痿函数/大禹治水三过家门而不“入”函数](function/forgetting-curve.zh.md)
-1. [大数规律/酥胸函数/刘亦菲函数](function/Standard_deviation_diagram_micro.zh.md)
-1. [生存曲线/美女函数/三上悠亚函数](function/Survivorship_Curves.zh.md)
-
-## logic
-
-1. [Database Deadlock](it/Deadlock.zh.md)
-
 ## References
 
   `地势坤，君子以厚德载物` --《周易》
