@@ -1,6 +1,6 @@
 # Math
 
-[English](readme.md)
+[English Version](readme.md)
 
 ![image](n/n.webp)
 

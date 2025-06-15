@@ -1,6 +1,6 @@
 # Math
 
-[中文](readme.zh.md)
+[中文版本](readme.zh.md)
 
 ![image](n/n.webp)
 
