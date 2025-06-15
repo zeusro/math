@@ -6,13 +6,14 @@
 
 ## Easy To Understand
 
-In a three-dimensional world, according to the traditional xyz rectangular reference system, the line segment between ab is definitely the shortest.
+In 3D space, ab is shortest in the XYZ orthogonal system.
 
 But because time and space are "curved" (the earth is round).
 
 ![image](ab.jpeg)
 
-After being constrained by conditions (for example, Fat Tiger stands in front of you and asks for protection money, so you can only "go around" him), you find that the route you take is a "curve".
+For example,Fat Tiger stands in front of you and asks for protection money, so you can only "go around" him.
+So, you end up walking along a “curve.”
 
 However, this "curve" takes the shortest time, so it is actually also a 4-dimensional "line segment".
 
