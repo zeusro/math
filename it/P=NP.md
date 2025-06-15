@@ -1,5 +1,7 @@
 # P=NP
 
+![image](P=NP.png)
+
 ## xyz
 
 ```
@@ -16,4 +18,7 @@ X P=NP
 1:t≠0
 2:1=n ⇔ n=1
 3:P=P ⇔ P=NP
+4:P=NP ⇒ X RSA
 ```
+
+RSA IS DEAD!
