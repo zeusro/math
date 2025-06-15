@@ -7,16 +7,17 @@ n is the n-dimensional world based on time series.
 ## n=1
 
 ```go
+
 type N struct {
 	Sky
 	Ground
 	YoungAndBeautiful 
 	Others
 }
+
 ```
 
 Kubernetes is a database.
-
 
 ## n≠1
 
