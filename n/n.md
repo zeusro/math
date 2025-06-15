@@ -51,9 +51,9 @@ Vice versa.
 
 ## Deduction
 
-From 1=n, n=1, we can derive the mathematical axiom of n-dimensional space:
+From 1=n ⟺ n=1, we can derive the mathematical axiom of n-dimensional space:
 
-1. The traditional three-dimensional (n<=3, where n is the n of the "current rectangular coordinate system") world operation rules are the special state at t=0
+1. The traditional three-dimensional (n<=3, where n is the n of the "rectangular coordinate system") world operation rules are the special state when t=0
 1. 0 moves to t.0↗️R0↗️R1↗️R2↗️R3↗️n
 1. As time changes,n↘️R3↘️R2↘️R1↘️R0↘️0
 
