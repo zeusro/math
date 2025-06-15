@@ -18,6 +18,8 @@ type N struct {
 ```
 
 n is universe.
+“Compress” all data to 1.
+So n=1.
 
 ## n≠1
 
@@ -31,10 +33,8 @@ n≠1 is a special case in xyz.
 1:𝑑𝑛⧸𝑑𝑡 = 0
 2:t = 0
 3:1 = 1 && 0 = 0 && x=x && y=y && z=z
+4:n≠1
 ```
-
-n = 1, 1 = n reflects a bidirectional idea from subset to superset.
-Vice versa.
 
 ## 1=n
 
@@ -43,6 +43,11 @@ Vice versa.
 Kubernetes is a distributed system.
 
 Building on 1D, layering all time series forms a time-based river of history: *1 = n*.
+
+For example,So many people.They are all human.
+
+n = 1 ⟺ 1 = n,it reflects a bidirectional idea from subset to superset.
+Vice versa.
 
 ## Deduction
 
