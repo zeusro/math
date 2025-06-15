@@ -44,7 +44,7 @@ Kubernetes is a distributed system.
 
 Building on 1D, layering all time series forms a time-based river of history: *1 = n*.
 
-For example,So many people.They are all human.
+For example,so many people,they are all human.
 
 n = 1 ⟺ 1 = n,it reflects a bidirectional idea from subset to superset.
 Vice versa.
@@ -64,7 +64,6 @@ From 1=n, n=1, we can derive the mathematical axiom of n-dimensional space:
 - $S \subset \mathbb{R}^2$
 - $V \subset \mathbb{R}^3$
 - $V \subset \mathbb{R}^4$
-
 - $\dim = n$
 
 ▣ → ▭ → ― → • → 0
