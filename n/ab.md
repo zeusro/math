@@ -18,7 +18,7 @@ However, this "curve" takes the shortest time, so it is actually also a 4-dimens
 
 ## Fully Dynamic Walking
 
-    Between two points, a line segment is the shortest; 
+    The shortest segment between two points is the one with the least time cost; 
     Learning behind human, I am the best
 
 xyz plus time,add surrounding objects,form a generalized n-dimensional world.
