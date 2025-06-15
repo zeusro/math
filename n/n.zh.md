@@ -37,18 +37,19 @@ Kubernetes is a distributed system.
 
 ## 推论
 
-由1=n，n=1可以得出n维空间数学公理：
-1. 传统三维（n<=3，这里的n是“当前直角坐标系”的n）世界运算法则是t=0时的特殊态；
+由1=n ⟺ n=1，得出n维空间数学公理：
+1. 传统三维（n<=3，“直角坐标系”中的n）是t=0时的特殊态；
 1. 0动成t，随着时间变化，点动成线，线动成面，面动成体，体动成维；
-1. 推论：随着时间变化，维降成体，体缩成面，面揉成线，线压成点，点灭为0。
+1. 随着时间变化，维降成体，体缩成面，面揉成线，线压成点，点灭为0。
 
-0 → • → ― → ▭ → ▣
+0 → t → • → ― → ▭ → ▣
 
-- 点 $P \in \mathbb{R}^0$
-- 线 $L \subset \mathbb{R}^1$
-- 面 $S \subset \mathbb{R}^2$
-- 体 $V \subset \mathbb{R}^3$
-- 维 $\dim = n$
+- $0 \in \mathbb{R}^0$
+- $time \subset \mathbb{R}^1$
+- $Point \in \mathbb{R}^2$
+- $Line \in \mathbb{R}^3$
+- $Surface \subset \mathbb{R}^4$
+- $3D \subset \mathbb{R}^5$
+- $n \subset \mathbb{R}^n+1$
 
-▣ → ▭ → ― → • → 0
-
+▣ → ▭ → ― → • → t → 0
