@@ -11,7 +11,8 @@ n is the n-dimensional world based on time series.
 type N struct {
 	Sky
 	Ground
-	YoungAndBeautiful 
+	YoungAndBeautiful
+	GoodPerson
 	Others
 }
 
@@ -28,6 +29,8 @@ So n=1.
 So many people.
 
 n≠1 is a special case in xyz.
+
+When t=0,1=1,0=0,therefore, n=1 and n≠1 are both true.
 
 ```
 1:𝑑𝑛⧸𝑑𝑡 = 0
