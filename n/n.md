@@ -17,14 +17,19 @@ type N struct {
 
 ```
 
-Kubernetes is a database.
+n is universe.
 
 ## n≠1
 
 ![image](1=N.svg)
 
-n ≠ 1 is just a special case of xyz.  
-When t = 0, 1 = 1 and 0 = 0 ⇒ n = 1 ∧ n ≠ 1.
+So many people.
+
+```
+1:t = 0
+2:1 = 1 && 0 = 0 && x=x && y=y && z=z
+3:
+```
 
 n = 1, 1 = n reflects a bidirectional idea from subset to superset.
 Vice versa.
