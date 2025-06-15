@@ -25,10 +25,12 @@ n is universe.
 
 So many people.
 
+n≠1 is a special case in xyz.
+
 ```
-1:t = 0
-2:1 = 1 && 0 = 0 && x=x && y=y && z=z
-3:
+1:𝑑𝑛⧸𝑑𝑡 = 0
+2:t = 0
+3:1 = 1 && 0 = 0 && x=x && y=y && z=z
 ```
 
 n = 1, 1 = n reflects a bidirectional idea from subset to superset.
