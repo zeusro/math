@@ -21,4 +21,8 @@ X P=NP
 4:P=NP ⇒ X RSA
 ```
 
+R IS DEAD!
+S IS DEAD!
+A IS DEAD!
 RSA IS DEAD!
+
