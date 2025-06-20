@@ -18,10 +18,10 @@
 2:1=n ⇔ n=1
 3:P=P ⇔ P=NP
 4:P=NP ⇒ X RSA
+5:The US government owes me 1 $m dollars!
 ```
 
 R IS DEAD!
 S IS DEAD!
 A IS DEAD!
 RSA IS DEAD!
-
