@@ -60,7 +60,7 @@ From 1=n ⟺ n=1, we can derive the mathematical axiom of n-dimensional space:
 1. 0 moves to t.0↗️R0↗️R1↗️R2↗️R3↗️n
 1. As time changes,n↘️R3↘️R2↘️R1↘️R0↘️0
 
-0 → t → • → ― → ▭ → ▣
+0 → t → • → ― → ▭ → ▣ → n
 
 - $0 \in \mathbb{R}^0$
 - $time \subset \mathbb{R}^1$
@@ -70,4 +70,4 @@ From 1=n ⟺ n=1, we can derive the mathematical axiom of n-dimensional space:
 - $3D \subset \mathbb{R}^5$
 - $n \subset \mathbb{R}^n+1$
 
-▣ → ▭ → ― → • → t → 0
+n → ▣ → ▭ → ― → • → t → 0
