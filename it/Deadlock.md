@@ -19,6 +19,6 @@ Convert this problem to another scenario:
 
 雇主（Player A）：Raise or hire another person.
 
-员工（Player B）：Find another company.
+员工（Player B）：Leave.
 
 Of course,I have a better solution，But you need to PAY.
