@@ -9,4 +9,4 @@
 
 $\not\exists x^* \in S,\ \forall x \in S,\ f(x^*) \leq f(x)$
 
-由于 n+1 维的干扰，不存在全局最优解
+Due to interference in the n+1th dimension, a global optimum does not exist.
