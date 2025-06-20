@@ -21,9 +21,9 @@
 5:US owes me 1 $m dollars!
 ```
 
-![image](RSA.png)
-
 R IS DEAD!
 S IS DEAD!
 A IS DEAD!
 RSA IS DEAD!
+
+![image](RSA.png)
