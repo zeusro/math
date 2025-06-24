@@ -1,0 +1,28 @@
+
+## n 的维度里面没有全局最优解
+
+全局最优解和局部最优解是相对的。
+
+由于 n+1 维的干涉，全局最优解并不存在。
+
+Prove:
+
+### 1
+
+  n < n + 1
+
+### 2
+
+$\not\exists x^* \in S,\ \forall x \in S,\ f(x^*) \leq f(x)$
+
+❌ 集合 S 中不存在最小值点（极小值）
+
+### 3
+
+[哥德爾不完備定理](https://zh.wikipedia.org/wiki/%E5%93%A5%E5%BE%B7%E5%B0%94%E4%B8%8D%E5%AE%8C%E5%A4%87%E5%AE%9A%E7%90%86)
+
+### 4
+
+[囚徒困境](https://zh.wikipedia.org/wiki/%E5%9B%9A%E5%BE%92%E5%9B%B0%E5%A2%83)
+
+`不识庐山真面目，只缘身在此山中`
