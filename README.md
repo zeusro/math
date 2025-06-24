@@ -28,9 +28,14 @@ mathematics needs to be extended to n dimensions.
 1. [Crystal Liu](function/Standard_deviation_diagram_micro.md)
 1. [みかみゆあ](function/Survivorship_Curves.md)
 
-## Logic
+## Game
+
+1. [Game](game/readme.md)
+
+## Information Technology
 
 1. [Database Deadlock](it/Deadlock.md)
+1. [P=NP](it/P=NP.md)
 
 ## References
 
