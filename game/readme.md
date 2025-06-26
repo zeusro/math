@@ -1,3 +1,4 @@
+**You can’t see the forest for the trees**
 
 ## No best policy in n
 
@@ -25,7 +26,9 @@ $\not\exists x^* \in S,\ \forall x \in S,\ f(x^*) \leq f(x)$
 
 [Prisoner’s Dilemma](https://zh.wikipedia.org/wiki/%E5%9B%9A%E5%BE%92%E5%9B%B0%E5%A2%83)
 
-**You can’t see the forest for the trees**
+### 5
+
+θεός
 
 ## Pareto Principle
 
