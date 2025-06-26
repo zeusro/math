@@ -28,6 +28,10 @@ $\not\exists x^* \in S,\ \forall x \in S,\ f(x^*) \leq f(x)$
 
 [囚徒困境](https://zh.wikipedia.org/wiki/%E5%9B%9A%E5%BE%92%E5%9B%B0%E5%A2%83)
 
+### 5
+
+人外有天，天外有神
+
 ## 80/20 法则
 
 **知所先后，则近道矣**
