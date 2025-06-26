@@ -30,7 +30,7 @@ $\not\exists x^* \in S,\ \forall x \in S,\ f(x^*) \leq f(x)$
 
 θεός
 
-## [Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle)
+## 📌 The Importance of Fixed Points
 
 **Il apparaît que la répartition des revenus suit une loi… En Italie, 20% de la population possède 80% des terres**
 
@@ -46,7 +46,7 @@ prove:
 
 ### 3
 
-  Pareto Principle
+  [Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle)
 
 ### 4 Loss of a fixed point ⟹ The topological structure of the space is no longer complete.
 
