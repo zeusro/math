@@ -36,17 +36,11 @@ $\not\exists x^* \in S,\ \forall x \in S,\ f(x^*) \leq f(x)$
 
 prove:
 
-### 1
+### 1: 1(+/-)1=n
 
-  1(+/-)1=n
+### 2: n < n - 1
 
-### 2
-
-  n < n - 1
-
-### 3
-
-  [Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle)
+### 3: [Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle)
 
 ### 4 Loss of a fixed point ⟹ The topological structure of the space is no longer complete.
 
