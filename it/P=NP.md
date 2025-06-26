@@ -1,6 +1,6 @@
 # P=NP
 
-![image](P=NP.png)
+<img src="P=NP.png" alt="P=NP" width="30%"/>
 
 ## xyz
 
