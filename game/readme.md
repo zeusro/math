@@ -48,3 +48,25 @@ prove:
 
   Pareto Principle
 
+### 4 Loss of a fixed point ⟹ The topological structure of the space is no longer complete.
+
+Assume there exists a continuous mapping:
+
+$f: X \to X$
+
+If $f$ has no fixed point, that is:
+
+$\neg \exists x \in X,\ f(x) = x$
+
+Then the set $X$ does not possess the topological properties required by the Brouwer Fixed Point Theorem, namely:
+
+$X \notin \text{CompactConvexSubsets}(\mathbb{R}^n)$
+
+We can define:
+
+**Topological Collapse**: a state in which $X$ loses compactness or convexity, resulting in the absence of fixed points.
+
+Thus, we have:
+
+$\neg \exists x \in X,\ f(x) = x \quad \Rightarrow \quad X \text{ undergoes topological collapse}$
+
