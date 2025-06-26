@@ -32,6 +32,8 @@ $\not\exists x^* \in S,\ \forall x \in S,\ f(x^*) \leq f(x)$
 
 ## Pareto Principle
 
+**Il apparaît que la répartition des revenus suit une loi… En Italie, 20% de la population possède 80% des terres**
+
 prove:
 
 ### 1
@@ -46,4 +48,3 @@ prove:
 
   Pareto Principle
 
-**Il apparaît que la répartition des revenus suit une loi… En Italie, 20% de la population possède 80% des terres**

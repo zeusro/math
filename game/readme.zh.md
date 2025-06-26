@@ -30,6 +30,8 @@ $\not\exists x^* \in S,\ \forall x \in S,\ f(x^*) \leq f(x)$
 
 ## 80/20 法则
 
+**知所先后，则近道矣**
+
 证明:
 
 ### 1
@@ -43,5 +45,3 @@ $\not\exists x^* \in S,\ \forall x \in S,\ f(x^*) \leq f(x)$
 ### 3
 
   80/20 法则
-
-**知所先后，则近道矣**
