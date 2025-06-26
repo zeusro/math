@@ -30,7 +30,7 @@ $\not\exists x^* \in S,\ \forall x \in S,\ f(x^*) \leq f(x)$
 
 θεός
 
-## Pareto Principle
+## [Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle)
 
 **Il apparaît que la répartition des revenus suit une loi… En Italie, 20% de la population possède 80% des terres**
 
