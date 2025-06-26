@@ -1,1 +1,1 @@
-
+The current system of logical symbols fails to account for antinomic propositions

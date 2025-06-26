@@ -4,11 +4,11 @@
     Work overtime for me and I'll give you a raise
     Give me a raise and I'll work overtime for you
 
-## Nash Equilibrium
+## 1/2Nash Equilibrium
 
-    No Raise, No Work
+    Low-trust network --> No Raise, No Work
 
-## P Equilibrium
+## 1/2Nash Equilibrium or Force-P Equilibrium
 
     Everyone happy
 
@@ -17,8 +17,10 @@
 Convert this problem to another scenario:
     Build up a trust network and then change this situation.
 
-雇主（Player A）：Raise or hire another person.
+Boss：Raise or hire another person.
 
-员工（Player B）：Leave.
+Player B：Leave.
 
-Of course,I have a better solution，But you need to PAY.
+## MVP Policy
+
+You need to pay if you want a better solution.

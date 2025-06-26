@@ -37,12 +37,20 @@ mathematics needs to be extended to n dimensions.
 1. [Database Deadlock](it/Deadlock.md)
 1. [P=NP](it/P=NP.md)
 
+## Logic
+
+1. [the limitations of logical symbols](logic/readme.md)
+
+## Physics
+
+1. [Conjecture on the Displacement Formula](physics/ab.md)
+
 ## References
 
-  `Carry the world with great virtue` --《周易》
+  **Carry the world with great virtue** --《周易》
 
 ## Thanks
 
 <a href="https://mp.weixin.qq.com/s?__biz=MzI1ODEyNDg3MA==&mid=2655476198&idx=1&sn=95a98827772aca245e33bcd05ef05d0a&chksm=f1bf04cfc6c88dd9027b86be9bc3e34e2fff5639e084f9075c32ffd669f7530b3aee7ef821b0&scene=178&cur_album_id=1501795090070077441&search_click_id=#rd" target="_blank">
-  <img src="はたけカカシ.jpg" alt="朱穆翔" width="30%">
+  <img src="はたけカカシ.jpg" alt="朱穆翔" width="40%">
 </a>

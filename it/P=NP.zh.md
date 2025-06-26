@@ -20,11 +20,6 @@
 5:US owes me 1 $m dollars!
 ```
 
-R IS DEAD!
-S IS DEAD!
-A IS DEAD!
-RSA IS DEAD!
-
-（I won’t prove it）
+RSA已死（但我不会去证明它）！！！
 
 ![image](RSA.png)
