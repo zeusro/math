@@ -32,7 +32,7 @@ $\not\exists x^* \in S,\ \forall x \in S,\ f(x^*) \leq f(x)$
 
 人外有天，天外有神
 
-## 80/20 法则
+## n维空间存在不动点
 
 **知所先后，则近道矣**
 
@@ -65,6 +65,7 @@ $X \notin \text{CompactConvexSubsets}(\mathbb{R}^n)$
 因此我们有：
 
 $\neg \exists x \in X,\ f(x) = x \quad \Rightarrow \quad X \text{ 拓扑结构坍塌}$
+
 
 
 
