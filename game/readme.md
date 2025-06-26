@@ -1,6 +1,6 @@
-**You can’t see the forest for the trees**
-
 ## No best policy in n
+
+**You can’t see the forest for the trees**
 
 The global optimal solution and the local optimal solution are relative.
 
