@@ -1,3 +1,5 @@
+**💢 Reason for Archiving 😤 ：NO MONEY**
+
 # Math
 
 [中文版本](readme.zh.md)
