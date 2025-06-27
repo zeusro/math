@@ -18,6 +18,7 @@ mathematics needs to be extended to n dimensions.
 1. [2](n/2.md)
 1. [3](n/3.md)
 1. [4](n/4.md)
+1. [5](n/5.md)
 1. [ab](n/ab.md)
 1. [dot](n/dot.md)
 1. [n](n/n.md)
@@ -31,6 +32,7 @@ mathematics needs to be extended to n dimensions.
 ## Game
 
 1. [Game](game/readme.md)
+1. [Prove Your Mother Fucker Equilibrium](game/P.md)
 
 ## Information Technology
 

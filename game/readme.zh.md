@@ -65,8 +65,3 @@ $X \notin \text{CompactConvexSubsets}(\mathbb{R}^n)$
 因此我们有：
 
 $\neg \exists x \in X,\ f(x) = x \quad \Rightarrow \quad X \text{ 拓扑结构坍塌}$
-
-
-
-
-

@@ -16,6 +16,7 @@
 1. [2](n/2.zh.md)
 1. [3](n/3.zh.md)
 1. [4](n/4.zh.md)
+1. [5](n/5.md)
 1. [ab](n/ab.zh.md)
 1. [dot](n/dot.zh.md)
 1. [n](n/n.zh.md)
@@ -29,6 +30,7 @@
 ## 扩展博弈论
 
 1. [拓展博弈论](game/readme.zh.md)
+1. [鹏式均衡证明](game/P.zh.md)
 
 ## 信息技术
 
