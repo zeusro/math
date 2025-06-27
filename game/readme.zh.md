@@ -70,5 +70,10 @@ $\neg \exists x \in X,\ f(x) = x \quad \Rightarrow \quad X \text{ 拓扑结构�
 
 合并 n < n - 1 ，n < n + 1 得到 n < n +/- 1
 
+证明：
+
+1： 1(+/-)1=n
+
+2： n < n +/- 1
 
 
