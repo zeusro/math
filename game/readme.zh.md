@@ -66,7 +66,9 @@ $X \notin \text{CompactConvexSubsets}(\mathbb{R}^n)$
 
 $\neg \exists x \in X,\ f(x) = x \quad \Rightarrow \quad X \text{ 拓扑结构坍塌}$
 
+## 总结
 
+合并 n < n - 1 ，n < n + 1 得到 n < n +/- 1
 
 
 
