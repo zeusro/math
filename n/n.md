@@ -52,6 +52,10 @@ For example,so many people,they are all human.
 n = 1 ⟺ 1 = n,it reflects a bidirectional idea from subset to superset.
 Vice versa.
 
+## n≠n
+
+There is another N universe.
+
 ## Deduction
 
 From 1=n ⟺ n=1, we can derive the mathematical axiom of n-dimensional space:

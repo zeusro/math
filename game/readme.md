@@ -1,3 +1,5 @@
+# Extending Game Theory
+
 ## No best policy in n
 
 **You can’t see the forest for the trees**
