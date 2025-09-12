@@ -1,4 +1,4 @@
-# Riemann hypothesis
+# Riemann Theorem
 
 ## 1
 
