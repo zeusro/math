@@ -1,5 +1,7 @@
 # ab in n
 
+  ab=t
+
 ## 2
 
 ∆x = v ∙ ∆t ⇔  v ∙ ∆t =∆x
