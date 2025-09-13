@@ -1,6 +1,6 @@
 # A quantum explanation of the world
 
-```math
+```
 n'=0
 0=t
 t=ab
