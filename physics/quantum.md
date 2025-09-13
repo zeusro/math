@@ -1,4 +1,4 @@
-# I am 
+# A quantum explanation of the world
 
 ```
 n'=0
@@ -11,4 +11,4 @@ a=| ⟩ ​​​
 tab=t(| ⟩ )²
 ```
 
-I am Quantum
+I am Quantum.

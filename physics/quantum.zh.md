@@ -1,4 +1,4 @@
-# A quantum explanation of the world
+# 世界的量子化解释
 
 ```
 n'=0
