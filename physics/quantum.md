@@ -12,6 +12,7 @@ a=| ⟩ ​​​
 tab=t(| ⟩ )²
 tab=t
 | ⟩ ²=1
+2=1
 ```
 
 proof: [I am Quantum](https://github.com/zeusro/quantum).
