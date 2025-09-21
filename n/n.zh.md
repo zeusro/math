@@ -70,3 +70,5 @@ Kubernetes 是一个分布式系统.
 - $n \subset \mathbb{R}^n+1$
 
 n → ▣ → ▭ → ― → • → t → 0
+
+[证明过程](https://github.com/zeusro/quantum/blob/main/README.zh.md)
