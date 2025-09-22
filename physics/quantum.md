@@ -11,4 +11,4 @@ ab=1
 a²=1
 ```
 
-proof: [I am Quantum](https://github.com/zeusro/quantum).
+[Proof](https://github.com/zeusro/quantum).
