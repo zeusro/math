@@ -28,4 +28,4 @@ n → ▣ → ▭ → ― → • → t → 0
 0 → t → • → ― → ▭ → ▣ → n
 ```
 
-用《[未濟 亨](https://github.com/zeusro/quantum/blob/main/README.zh.md#%E6%8E%A8%E5%AF%BC%E8%BF%87%E7%A8%8B)》证明。
+用《[未濟 亨](https://github.com/zeusro/quantum/blob/main/README.zh.md#推导过程)》证明。
