@@ -1,4 +1,4 @@
-**💢 Reason for Archiving 😤 ：NO MONEY**
+[![天才白痴钱钱钱 许冠杰](https://img.youtube.com/vi/k-e9EnC2n8w/sddefault.jpg)](https://www.youtube.com/watch?v=k-e9EnC2n8w)
 
 # Math
 
