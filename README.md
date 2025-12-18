@@ -1,8 +1,6 @@
-[![天才白痴钱钱钱 许冠杰](https://img.youtube.com/vi/k-e9EnC2n8w/sddefault.jpg)](https://www.youtube.com/watch?v=k-e9EnC2n8w)
-
 # Math
 
-![image](n/n.webp)
+[![天才白痴钱钱钱 许冠杰](n/n.webp)](https://www.youtube.com/watch?v=k-e9EnC2n8w)
 
 ## Abstract
 
